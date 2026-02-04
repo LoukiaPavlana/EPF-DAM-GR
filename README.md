@@ -31,7 +31,8 @@ Following the creation and evaluation of the forecasting models, we continued wi
 
 ## Data
 
-The dataset was extracted from the **Day-Ahead Market (DAM) data** from the **Hellenic Energy Exchange (HEnEx)** 
+The dataset was extracted from the **Day-Ahead Market data** section of the **Hellenic Energy Exchange (HEnEx)** 
+https://www.enexgroup.gr/el/markets-publications-el-day-ahead-market
 
 ## Repository Structure
 
