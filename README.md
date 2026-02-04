@@ -1,3 +1,5 @@
+# Electricity price forecasting for the Day-Ahead Market (DAM)
+
 This repository contains the code developed for my Diploma Thesis titled  **Electricity price forecasting for the Day-Ahead Market (DAM)** where we specifically focus on the **Greek Electricity Market (HEnEx)**.
 
 
