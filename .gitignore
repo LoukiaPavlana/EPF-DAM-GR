@@ -1,0 +1,6 @@
+﻿desktop.ini
+Thumbs.db
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+lightning_logs/
+catboost_info/
