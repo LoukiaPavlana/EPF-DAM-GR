@@ -1,4 +1,4 @@
-# Electricity price forecasting for the Day-Ahead Market (DAM)
+# Electricity price forecasting for the Day-Ahead Market
 
 This repository contains the code developed for my Diploma Thesis titled  **Electricity price forecasting for the Day-Ahead Market (DAM)** where we specifically focus on the **Greek Electricity Market (HEnEx)**.
 
@@ -27,7 +27,7 @@ and we continue with:
   - Direct multi-step forecasting
 - Incorporation of **same-day exogenous variables** 
 
-Following the creation and evaluation of the forecasting models, we continued with the creation of the dynamic hyperparameter selection approach. We employed **regression  and classifier models**
+Following the creation and evaluation of the forecasting models, we continued with the creation of the dynamic hyperparameter selection approach. We employed **regression  and classifier models**  and fine tuned the architectures with hyperparameter tuning and feature engineering.
 
 ## Data
 
