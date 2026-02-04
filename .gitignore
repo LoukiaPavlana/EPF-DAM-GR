@@ -4,3 +4,9 @@ Thumbs.db
 **/.ipynb_checkpoints/
 lightning_logs/
 catboost_info/
+
+Regression/5B_RF_tests.ipynb
+
+Data_Extraction/2021_EL-DAM_PreMarketSummary/
+
+Data_Extraction/2021_EL-DAM_ResultsSummary/
