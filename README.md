@@ -8,6 +8,10 @@ Later on we emphasize the importance of two specific hyperparameters the trainin
 
 
 ## Methodology Review 
+The overall methodology of this thesis is shown in the following figure:
+
+<img width="1681" height="1715" alt="overall_methodology_schema (1)" src="https://github.com/user-attachments/assets/2f45ca15-54e5-4937-9cff-1fa0e0634b97" />
+
 The pipeline for the creation of the architectures included model selection out of:
 
 - **Regression & ensemble models**
@@ -37,3 +41,7 @@ https://www.enexgroup.gr/el/markets-publications-el-day-ahead-market
 ## Repository Structure
 
 The repository is organized is model specific folders as well as a seperate folder that includes the data extraction notebooks.
+
+## Full report
+
+The full report of the thesis can be found in thesis_loukiapavlana_final.pdf in English, with an extensive Greek summary.
